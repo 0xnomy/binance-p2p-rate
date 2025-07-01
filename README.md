@@ -1,4 +1,4 @@
-# 🪙 Binance P2P Fetcher for Crypto Awaz
+# Binance P2P Fetcher for Crypto Awaz
 
 A Python script that fetches real-time Binance P2P trading rates for USDT/PKR and sends them to Discord via webhook. This tool provides a clean, professional dashboard showing current buy/sell offers, market summary, and spread calculations.
 
@@ -151,9 +151,8 @@ This project is provided as-is for educational and personal use. Please ensure c
 ## 🔗 Links
 
 - [Binance P2P](https://p2p.binance.com/)
-- [Discord Developer Portal](https://discord.com/developers/applications)
 - [Crypto Awaz](https://cryptoawaz.com)
 
 ---
 
-**Made with ❤️ for the crypto community** 
+**Made with ❤️ for the crypto awaz** 
