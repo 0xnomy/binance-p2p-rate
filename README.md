@@ -155,4 +155,4 @@ This project is provided as-is for educational and personal use. Please ensure c
 
 ---
 
-**Made with ❤️ for the crypto awaz** 
+**Made for crypto awaz** 
