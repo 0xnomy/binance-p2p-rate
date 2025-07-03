@@ -23,8 +23,8 @@ A Python script that fetches real-time Binance P2P trading rates for USDT/PKR an
 
 1. **Clone or download the project**
    ```bash
-   git clone <repository-url>
-   cd p2p-scrapper
+   git clone https://github.com/0xnomy/binance-p2p-rate)
+   cd binance-p2p-rate
    ```
 
 2. **Install dependencies**
